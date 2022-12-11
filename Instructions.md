@@ -27,3 +27,8 @@ To make comment of new add info after each save, should be used next command: gi
 * git add .
 * git commit -m ""
 
+# 3. Commands for version checkout
+
+* To check last version of repository: git checkout master
+* To check all verions: git log
+* To check difference of master version and chosed version: git diff
