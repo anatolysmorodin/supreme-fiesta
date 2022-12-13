@@ -35,3 +35,5 @@ To make comment of new add info after each save, should be used next command: gi
 
 Эта инфа была добавлена в локальном репозитории
 
+Эта инфа была в удаленном репозитории
+
